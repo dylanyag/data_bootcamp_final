@@ -1,2 +1,3 @@
-# data_bootcamp_final
-Final for NYU Data Bootcamp
+# Predicting Skateboard Sales
+
+This is my final project (so and so on)... (this is where my Executive Summary/High-Level Overview of my final project goes)
